@@ -1,0 +1,3 @@
+read var
+var := 7.76 + 3423 - 432
+write var

@@ -1,0 +1,5 @@
+read count
+count + operator + operand
+write count
+
+/* Gives us an error! */
