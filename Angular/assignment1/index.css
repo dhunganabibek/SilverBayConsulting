@@ -1,0 +1,21 @@
+@import url("https://cdn.jsdelivr.net/npm/@xz/fonts@1/serve/cascadia-code.min.css");
+.loginHeader {
+    text-align: center;
+    color: #1c1e21;
+    font-size: 3em;
+    color: #007bff;
+}
+
+.otherText {
+    color: #007bff;
+    font-size: 1.5em;
+}
+
+body {
+    font-size: 5em;
+    font-family: 'Cascadia Code', sans-serif;
+}
+
+.btn {
+    text-align: center;
+}
