@@ -1,3 +1,3 @@
 # SilverBayConsulting
 
-## Java Back end Develpment Course
+## Java Back end Development Course
